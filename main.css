@@ -89,3 +89,7 @@ body{
     min-width: 120px;
 
 }
+
+.node{
+    border-radius: 30px;
+}
